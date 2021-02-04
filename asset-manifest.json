@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YAFApp/static/css/main.6d68914a.chunk.css",
+    "main.js": "/YAFApp/static/js/main.9ff3be32.chunk.js",
+    "main.js.map": "/YAFApp/static/js/main.9ff3be32.chunk.js.map",
+    "runtime-main.js": "/YAFApp/static/js/runtime-main.61c3d533.js",
+    "runtime-main.js.map": "/YAFApp/static/js/runtime-main.61c3d533.js.map",
+    "static/js/2.73d38216.chunk.js": "/YAFApp/static/js/2.73d38216.chunk.js",
+    "static/js/2.73d38216.chunk.js.map": "/YAFApp/static/js/2.73d38216.chunk.js.map",
+    "index.html": "/YAFApp/index.html",
+    "static/css/main.6d68914a.chunk.css.map": "/YAFApp/static/css/main.6d68914a.chunk.css.map",
+    "static/js/2.73d38216.chunk.js.LICENSE.txt": "/YAFApp/static/js/2.73d38216.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61c3d533.js",
+    "static/js/2.73d38216.chunk.js",
+    "static/css/main.6d68914a.chunk.css",
+    "static/js/main.9ff3be32.chunk.js"
+  ]
+}
