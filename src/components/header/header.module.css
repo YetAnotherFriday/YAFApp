@@ -1,0 +1,26 @@
+.header{
+  background-color: rgb(255, 254, 254);
+  min-height: 60px;
+}
+.headerWrapper{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 90%;
+  margin:  auto;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.headerList{
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  min-width: 300px;
+}
+.headerList li{
+  list-style: none;
+  
+
+}
