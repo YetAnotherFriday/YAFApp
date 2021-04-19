@@ -1,8 +1,7 @@
 import { DashboardBody, DashboardProps } from './dashboard'
-import { Selection, SelectionProps } from './selection'
+import { Selection } from './selection'
 
-export * from './dashboard'
-export * from './selection'
+
 
 export const Dashboard: React.FC<DashboardProps> = (props) => {
   return (
