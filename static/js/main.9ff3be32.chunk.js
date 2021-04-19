@@ -1,2 +1,0 @@
-(this.webpackJsonpyafapp=this.webpackJsonpyafapp||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var c=n(1),r=n.n(c),a=n(3),i=n.n(a),o=(n(8),n(9),n(0));var s=function(){return Object(o.jsx)("div",{children:Object(o.jsx)("header",{children:"Yet another Friday"})})};i.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(s,{})}),document.getElementById("root"))},8:function(e,t,n){},9:function(e,t,n){}},[[11,1,2]]]);
-//# sourceMappingURL=main.9ff3be32.chunk.js.map
